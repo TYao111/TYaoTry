@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-
-###All the codes are learned from Morvan Zhou
-###https://morvanzhou.github.io/tutorials/machine-learning/
-
 """
 Created on Sat Jul  8 22:02:14 2017
+
+###  All the codes are learned from Morvan Zhou
+###  https://morvanzhou.github.io/tutorials/machine-learning/
+
 
 @author: lenovo
 """
