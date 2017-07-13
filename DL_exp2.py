@@ -71,3 +71,4 @@ for i in range(1000):
         plt.pause(1)
         #print(sess.run(loss,feed_dict={xs:x_data,ys:y_data}))
 
+sess.close()
